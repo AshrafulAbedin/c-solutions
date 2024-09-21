@@ -1,8 +1,8 @@
 ### Exercise 2.08
-How many tokens are there in the following statemnt?
+How many tokens are there in the following statement?
 ```c
 answer=(3*q-p*p)/3;
 ```
 
 ### Solution
-There are thirteen tokens in the statement, six of which are non-unique.
+There are 14 tokens in the statement, six of which are non-unique.
